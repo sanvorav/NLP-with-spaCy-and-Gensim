@@ -1,0 +1,1386 @@
+from,to
+1994,Advanced Consumer Technology
+1994,Advanced Technology
+1994,Advanced Technology Sales
+1994,Analysis Business Unit
+1994,Apple Computer
+1994,Apple Computer Inc
+1994,Applications Software
+1994,Board
+1994,Business Systems Division
+1994,Consumer Division
+1994,Desktop Applications Division
+1994,Developer Division
+1994,IBM
+1994,Intel
+1994,International Operations
+1994,MICROSOFT
+1994,Macintosh
+1994,Microsoft
+1994,Microsoft Access
+1994,Microsoft Developer Network
+1994,Microsoft Europe
+1994,Microsoft Excel
+1994,Microsoft Mail
+1994,Microsoft Money
+1994,Microsoft Mouse
+1994,Microsoft North America
+1994,Microsoft Office
+1994,Microsoft Press
+1994,Microsoft SQL Server
+1994,Microsoft Solutions Providers
+1994,Microsoft Word
+1994,Microsoft Works
+1994,Novell
+1994,OEM
+1994,OEM Sales
+1994,OEM Sales Division
+1994,OLE
+1994,Office Business Unit
+1994,Operations
+1994,Personal Operating Systems Division
+1994,Product Support Services
+1994,SQL
+1994,SQL Server
+1994,Sales Support
+1994,Solutions Providers
+1994,Strategic Enterprise Services
+1994,Systems Division
+1994,Systems Software
+1994,The Desktop Applications Division
+1994,The Developer Division
+1994,The Personal Operating Systems Division
+1994,WINDOWS
+1995,Applications Content Group
+1995,BackOffice
+1995,Board
+1995,Business Systems Division
+1995,Consumer Division
+1995,Consumer Systems Division
+1995,Desktop Applications Division
+1995,Developer Division
+1995,Digital Equipment Corporation
+1995,Group
+1995,IBM
+1995,Intel
+1995,Lotus
+1995,MSN
+1995,Macintosh
+1995,Microsoft
+1995,Microsoft Access
+1995,Microsoft Developer Network
+1995,Microsoft Excel
+1995,Microsoft Mail
+1995,Microsoft Mail Server
+1995,Microsoft Money
+1995,Microsoft Mouse
+1995,Microsoft Office
+1995,Microsoft Press
+1995,Microsoft SQL Server
+1995,Microsoft Solutions Providers
+1995,Microsoft Word
+1995,Microsoft Works
+1995,Novell
+1995,OEM
+1995,OLE
+1995,Oracle
+1995,Personal Systems Division
+1995,Platforms Group
+1995,Product Support Services
+1995,SQL Server
+1995,Solutions Providers
+1995,Sun Microsystems
+1995,Sybase
+1995,Systems Management Server
+1995,Systems Software
+1995,The
+1995,The Business Systems Division
+1995,The Consumer Division
+1995,The Consumer Systems Division
+1995,The Desktop Applications Division
+1995,The Developer Division
+1995,The MSN Division
+1995,The Microsoft Network
+1995,The Personal Systems Division
+1995,The Sales Support Group
+1995,Worldwide OEM Sales
+1995,Worldwide Sales Support
+1996,ActiveX
+1996,America Online
+1996,Apple
+1996,Broadcast
+1996,CompuServe
+1996,Corel
+1996,Digital Equipment Corporation
+1996,Digital Studio
+1996,IBM
+1996,IIS
+1996,Intel
+1996,MICROSOFT
+1996,MSN
+1996,MSNBC
+1996,Macintosh
+1996,Microsoft
+1996,Microsoft Access
+1996,Microsoft Developer Network
+1996,Microsoft Excel
+1996,Microsoft Money
+1996,Microsoft Mouse
+1996,Microsoft Office
+1996,Microsoft Press
+1996,Microsoft Solution Providers
+1996,Microsoft Word
+1996,Microsoft Works
+1996,Netscape
+1996,OEM
+1996,OLE
+1996,Oracle
+1996,Softimage
+1996,Solution Providers
+1996,Sun Microsystems
+1996,Sybase
+1996,The Consumer Platforms Division
+1996,The Desktop Applications Division
+1996,The Desktop Business Systems Division
+1996,The Microsoft Network
+1996,WINDOWS
+1997,ActiveX
+1997,America Online
+1997,Apple
+1997,BackOffice
+1997,CompuServe
+1997,Corel
+1997,Digital Equipment Corporation
+1997,Expedia
+1997,IBM
+1997,Intel
+1997,Interactive Media
+1997,MICROSOFT
+1997,MSN
+1997,MSNBC
+1997,Macintosh
+1997,Microsoft
+1997,Microsoft Access
+1997,Microsoft Developer Network
+1997,Microsoft Excel
+1997,Microsoft Money
+1997,Microsoft Mouse
+1997,Microsoft Office
+1997,Microsoft Press
+1997,Microsoft Publisher
+1997,Microsoft Solution Providers
+1997,Microsoft Word
+1997,Microsoft Works
+1997,Netscape
+1997,Novell
+1997,OEM
+1997,Oracle
+1997,Softimage
+1997,Solution Providers
+1997,Sun
+1997,Sybase
+1997,The Business Systems Division
+1997,The Consumer Platforms Division
+1997,The Desktop Applications Division
+1997,The Developer Tools Division
+1997,The Internet Client Collaboration Division
+1997,The Personal Systems Division
+1997,WINDOWS
+1997,World Wide Web
+1998,ActiveX
+1998,Apple
+1998,COM
+1998,Compaq
+1998,Corel
+1998,Desktop Finance
+1998,HTML
+1998,IBM
+1998,Intel
+1998,Interactive Media
+1998,Java
+1998,Linux
+1998,MSN
+1998,MSNBC
+1998,Macintosh
+1998,Microsoft
+1998,Microsoft Access
+1998,Microsoft Developer Network
+1998,Microsoft Direct Access
+1998,Microsoft Excel
+1998,Microsoft Exchange Server
+1998,Microsoft Money
+1998,Microsoft Network
+1998,Microsoft Office
+1998,Microsoft Outlook
+1998,Microsoft PowerPoint
+1998,Microsoft Press
+1998,Microsoft Project
+1998,Microsoft Solution Providers
+1998,Microsoft Word
+1998,Microsoft Works
+1998,Netscape
+1998,Novell
+1998,OEM
+1998,Oracle
+1998,Software
+1998,Solution Providers
+1998,Sun Microsystems
+1998,Sybase
+1998,The
+1998,The Applications Tools Group
+1998,The Consumer Platforms Group
+1998,The Platforms Group
+1999,AOL
+1999,AT T
+1999,Advanced Consumer Technology
+1999,Apple
+1999,Board
+1999,Business Productivity
+1999,Business Systems Division
+1999,COM
+1999,Compaq
+1999,Consumer Commerce
+1999,Consumer Platforms
+1999,Corel
+1999,Desktop Applications
+1999,Desktop Applications Division
+1999,Developer
+1999,Group
+1999,Home Retail
+1999,IBM
+1999,Intel
+1999,Java
+1999,Linux
+1999,MCP
+1999,MSN
+1999,MSN Commerce
+1999,MSN Internet Access
+1999,MSN Portal
+1999,MSNBC
+1999,Microsoft
+1999,Microsoft Access
+1999,Microsoft Certified Solution Providers
+1999,Microsoft Consulting Services
+1999,Microsoft Developer Network
+1999,Microsoft Direct Access
+1999,Microsoft Europe
+1999,Microsoft Excel
+1999,Microsoft Exchange Server
+1999,Microsoft Money
+1999,Microsoft Office
+1999,Microsoft Passport
+1999,Microsoft Press
+1999,Microsoft SQL Server
+1999,Microsoft Word
+1999,Microsoft Works
+1999,Netscape
+1999,OEM
+1999,OEM Sales
+1999,Office
+1999,Oracle
+1999,Sales Support
+1999,Server Applications
+1999,Silicon Graphics Inc
+1999,Solution Providers
+1999,Sun Microsystems
+1999,Sybase
+1999,Systems Software
+1999,The Consumer Commerce Group
+1999,The Developer Group
+1999,TransPoint
+2000,AOL
+2000,Advanced Consumer Technology
+2000,Advanced Server
+2000,Apple
+2000,Board
+2000,Business Applications
+2000,Business Productivity
+2000,Business Systems Division
+2000,COM
+2000,Consumer Commerce
+2000,Consumer Group
+2000,Consumer Platforms
+2000,Corel
+2000,Desktop Applications
+2000,Developer
+2000,EPG
+2000,Expedia
+2000,Group
+2000,Home Retail
+2000,IBM
+2000,Inc
+2000,Java
+2000,Law Corporate Affairs
+2000,Linux
+2000,MCP
+2000,MSN
+2000,MSN Internet Access
+2000,MSN Portal
+2000,MSNBC
+2000,Microsoft
+2000,Microsoft Access
+2000,Microsoft Bookshelf
+2000,Microsoft Developer Network
+2000,Microsoft Direct Access
+2000,Microsoft Europe
+2000,Microsoft Excel
+2000,Microsoft Exchange Server
+2000,Microsoft Money
+2000,Microsoft Office
+2000,Microsoft Passport
+2000,Microsoft Press
+2000,Microsoft SQL Server
+2000,Microsoft Word
+2000,Microsoft Works
+2000,NET
+2000,OEM
+2000,Office
+2000,Oracle
+2000,Personal Services
+2000,Sales Marketing
+2000,Sales Support
+2000,Server Applications
+2000,Silicon Graphics Inc
+2000,Solution Providers
+2000,Sony
+2000,Subscription Service
+2000,Sun Microsystems
+2000,Support Group
+2000,Sybase
+2000,Systems Software
+2000,The Consumer Group
+2000,The Developer Group
+2000,The Productivity Applications
+2000,The Windows Division
+2000,TransPoint
+2000,Windows Media Technologies
+2000,XML
+2000,Yahoo
+2000,bCentral
+2001,AOL
+2001,AOL Time Warner
+2001,Advanced Consumer Technology
+2001,Advanced Server
+2001,Apple
+2001,Application Center
+2001,Board
+2001,Business Groups
+2001,Business Productivity
+2001,Business Systems Division
+2001,CNBC
+2001,CarPoint
+2001,Consumer Commerce
+2001,Consumer Commerce Investments
+2001,Consumer Software
+2001,Corel
+2001,Datacenter Server
+2001,Desktop Applications
+2001,Desktop Enterprise Software
+2001,Desktop Enterprise Software Services
+2001,Desktop Platforms
+2001,Devices
+2001,Electronic Arts
+2001,Enterprise Services
+2001,Enterprise Software Services
+2001,Exchange Server
+2001,Expedia
+2001,Expedia Inc
+2001,Group
+2001,HailStorm
+2001,HomeAdvisor
+2001,Human Resources
+2001,IBM
+2001,Law Corporate Affairs
+2001,Linux
+2001,MSN
+2001,MSN Business Group
+2001,MSN Internet Access
+2001,MSN eShop
+2001,MSNBC
+2001,Microsoft
+2001,Microsoft Access
+2001,Microsoft Europe
+2001,Microsoft Excel
+2001,Microsoft Great Plains
+2001,Microsoft Money
+2001,Microsoft Office
+2001,Microsoft Press
+2001,Microsoft Project
+2001,Microsoft Research
+2001,Microsoft Windows CE
+2001,Microsoft Word
+2001,Microsoft Works
+2001,Mobile Information Server
+2001,OEM
+2001,Office
+2001,Oracle
+2001,PSG
+2001,Personal Services Group
+2001,Productivity Business Services
+2001,Sales Marketing
+2001,Sales Support
+2001,Server Applications
+2001,Services
+2001,Services Group
+2001,Services Platform Division
+2001,Silicon Graphics Inc
+2001,Software
+2001,Sun Microsystems
+2001,Sybase
+2001,Systems Software
+2001,Visual Studio
+2001,Windows
+2001,Worldwide Sales Marketing
+2001,XML
+2001,Xbox
+2001,Yahoo
+2001,bCentral
+2002,Acceleration Server
+2002,Advanced Server
+2002,Apple
+2002,Application Center
+2002,BizTalk Server
+2002,Board
+2002,Business Platform
+2002,Business Productivity
+2002,Business Solutions
+2002,CarPoint
+2002,Commerce Server
+2002,Consumer Commerce
+2002,Consumer Commerce Investments
+2002,Corel
+2002,Datacenter Server
+2002,Desktop Applications
+2002,Desktop Platforms
+2002,Devices
+2002,Enterprise Services
+2002,Enterprise Software Services
+2002,Enterprise Storage Division
+2002,Exchange
+2002,Expedia
+2002,Games Division
+2002,Group
+2002,Hardware
+2002,HomeAdvisor
+2002,Human Resources
+2002,IBM
+2002,Integration Server
+2002,Linux
+2002,MSDN
+2002,MSN
+2002,MSN Access
+2002,MSN Internet Access
+2002,MSN Network Services
+2002,MSN Search
+2002,Microsoft
+2002,Microsoft Americas
+2002,Microsoft Europe
+2002,Microsoft Great Plains
+2002,Microsoft Money
+2002,Microsoft Office
+2002,Microsoft Operations
+2002,Microsoft Press
+2002,Microsoft Project
+2002,Microsoft Windows CE
+2002,Microsoft Word
+2002,Microsoft Works
+2002,Mobile Information Server
+2002,Office
+2002,Oracle
+2002,Personal Services Group
+2002,Productivity Business Services
+2002,SQL Server
+2002,Sales Marketing
+2002,Sales Support
+2002,Server Applications
+2002,Services
+2002,Services Group
+2002,SharePoint Portal Server
+2002,Software
+2002,Sony
+2002,Sun
+2002,Sun Microsystems
+2002,Sybase
+2002,Tablet
+2002,USB
+2002,Visio
+2002,Visual Studio
+2002,Warner
+2002,Worldwide Sales Marketing
+2002,XML
+2002,Xbox
+2002,Yahoo
+2002,bCentral
+2003,Apple
+2003,Apple Computer
+2003,Business Integrity
+2003,Corel
+2003,Dell
+2003,ESA
+2003,GPU
+2003,General Counsel
+2003,Group
+2003,HPD
+2003,Home Entertainment
+2003,Human Resources
+2003,IBM
+2003,Linux
+2003,MSFT
+2003,MSN
+2003,MSN MSN
+2003,MSN Network
+2003,MSN Subscription
+2003,Microsoft
+2003,Microsoft Business Solutions
+2003,Microsoft Europe
+2003,Microsoft Office
+2003,Microsoft Office System
+2003,Microsoft Xbox
+2003,Mobile Embedded Devices
+2003,Open Source
+2003,Oracle
+2003,Personal Services Group
+2003,Productivity Business Services
+2003,SEC
+2003,Sales Support
+2003,Software Assurance
+2003,Sony
+2003,Sun Microsystems
+2003,Sybase
+2003,The Microsoft Office System
+2003,Trustworthy Computing
+2003,XML
+2003,Yahoo
+2004,Apple
+2004,CRM
+2004,Client
+2004,Corel
+2004,Dell
+2004,ESA
+2004,GPU
+2004,General Counsel
+2004,Group
+2004,HPD
+2004,Home Entertainment
+2004,Human Resources
+2004,IBM
+2004,ISV
+2004,Information Worker
+2004,Linux
+2004,Longhorn
+2004,MSN
+2004,Microsoft
+2004,Microsoft Business Solutions
+2004,Microsoft Europe
+2004,Microsoft Office
+2004,Microsoft Office System
+2004,Microsoft Xbox
+2004,Mobile Embedded Devices
+2004,Office
+2004,Oracle
+2004,Personal Services Group
+2004,Portable Media Center
+2004,SEC
+2004,Sales Support
+2004,Server Tools
+2004,Software Assurance
+2004,Sony
+2004,Sun Microsystems
+2004,The Home Entertainment
+2004,The Microsoft Office System
+2004,XML
+2004,Yahoo
+2005,AOL
+2005,Apple
+2005,BizTalk Server
+2005,Carter Holt Harvey Limited
+2005,Client
+2005,Commission
+2005,Corel
+2005,Dell
+2005,ESA
+2005,European Commission
+2005,Fargo
+2005,Finance Administration
+2005,GPU
+2005,General Counsel
+2005,Google
+2005,Group
+2005,HPD
+2005,Home Entertainment
+2005,IBM
+2005,Information Worker
+2005,International Paper
+2005,Legal Corporate Affairs
+2005,Linux
+2005,MSN
+2005,MSN Internet Access
+2005,MSN Search
+2005,MSTV
+2005,Microsoft
+2005,Microsoft Axapta
+2005,Microsoft Business Solutions
+2005,Microsoft Europe
+2005,Microsoft International
+2005,Microsoft Navision
+2005,Microsoft Office
+2005,Microsoft Office System
+2005,Microsoft Solomon
+2005,Mobile Embedded Devices
+2005,NEC
+2005,Nintendo
+2005,Novell
+2005,Oracle
+2005,Red Hat
+2005,SEC
+2005,SMB
+2005,SQL Server
+2005,Sales Support
+2005,Server
+2005,Server Tools
+2005,Server Tools Business
+2005,Software Assurance
+2005,Sony
+2005,Sun Microsystems
+2005,Windows Server System
+2005,Worldwide Sales Marketing Services
+2005,XML
+2006,AOL
+2006,Apple
+2006,CA
+2006,Commission
+2006,Corel
+2006,Court First Instance
+2006,Dell
+2006,European Commission
+2006,Exchange Server
+2006,General Counsel
+2006,Google
+2006,Group
+2006,Home Entertainment
+2006,Human Resources
+2006,IBM
+2006,IPTV
+2006,Information Systems Division
+2006,Information Worker
+2006,International Paper
+2006,KFTC
+2006,Korean Fair Trade Commission
+2006,Legal Corporate Affairs
+2006,Linux
+2006,MSN
+2006,MSN Search
+2006,MSN adCenter
+2006,MapPoint
+2006,Microsoft
+2006,Microsoft Business Division
+2006,Microsoft Business Solutions
+2006,Microsoft Entertainment Devices Division
+2006,Microsoft Office
+2006,Nintendo
+2006,Novell
+2006,Office
+2006,Oracle
+2006,Red Hat
+2006,SEC
+2006,Sales Support
+2006,Server Tools
+2006,SharePoint
+2006,Software Assurance
+2006,Sony
+2006,Sun Microsystems
+2006,System Center
+2007,AOL
+2007,Apple
+2007,Commission
+2007,Computer Associates
+2007,Corel
+2007,Dell
+2007,EDD
+2007,Entertainment Devices Division
+2007,Forefront Security
+2007,General Counsel
+2007,Google
+2007,Group
+2007,Human Resources
+2007,IBM
+2007,Information Systems Division
+2007,International Paper
+2007,Linux
+2007,Live Search
+2007,MBD
+2007,MSN
+2007,MSN Internet Access
+2007,MSN Premium Web Services
+2007,Mediaroom
+2007,Microsoft
+2007,Microsoft Business Division
+2007,Microsoft Dynamics
+2007,Microsoft Office
+2007,Microsoft Office System
+2007,Nintendo
+2007,Novell
+2007,OSB
+2007,Office
+2007,Oracle
+2007,Platforms Services Division
+2007,Red Hat
+2007,SAP
+2007,SEC
+2007,Sales Support
+2007,Software Assurance
+2007,Sony
+2007,Sun Microsystems
+2007,System Center
+2007,Windows Mobile
+2007,Zune
+2008,AOL
+2008,Adobe
+2008,Apple
+2008,Business Productivity
+2008,Commission
+2008,Corel
+2008,Dell
+2008,EDD
+2008,Entertainment Devices Division
+2008,European Commission
+2008,General Counsel
+2008,Google
+2008,Group
+2008,Human Resources
+2008,IBM
+2008,Information Systems Division
+2008,International Paper
+2008,Linux
+2008,Live Search
+2008,MBD
+2008,MSN
+2008,Mediaroom
+2008,Microsoft
+2008,Microsoft Business Division
+2008,Microsoft Dynamics
+2008,Microsoft Dynamics CRM
+2008,Microsoft Dynamics CRM Online
+2008,Microsoft Office
+2008,Microsoft Online Services
+2008,Microsoft SQL Server
+2008,Nintendo
+2008,Novell
+2008,OSB
+2008,Office
+2008,Oracle
+2008,Platforms Services Division
+2008,Red Hat
+2008,SAP
+2008,SEC
+2008,Sales Support
+2008,Server Tools
+2008,Software Assurance
+2008,Sony
+2008,Sun Microsystems
+2008,System Center
+2008,Visual Studio
+2008,Windows Live Office Live
+2008,Windows Server
+2008,Worldwide Field Operations
+2008,Zune
+2009,Adobe
+2009,Apple
+2009,Bing
+2009,Business Productivity
+2009,Corel
+2009,Dell
+2009,EDD
+2009,Entertainment Devices Division
+2009,General Counsel
+2009,Google
+2009,Group
+2009,Human Resources
+2009,IBM
+2009,Information Systems Division
+2009,Intel
+2009,International Paper
+2009,Linux
+2009,MBD
+2009,MSN
+2009,Mediaroom
+2009,Microsoft
+2009,Microsoft Business Division
+2009,Microsoft Dynamics
+2009,Microsoft Dynamics CRM Online
+2009,Microsoft Office
+2009,Microsoft Online Services
+2009,Microsoft Surface
+2009,Nintendo
+2009,Novell
+2009,Office
+2009,Oracle
+2009,PHP
+2009,Red Hat
+2009,SAP
+2009,SEC
+2009,Server Tools
+2009,Server Tools Business
+2009,SharePoint
+2009,Sony
+2009,Sun Microsystems
+2009,System Center
+2009,Windows Division
+2009,Windows Server
+2009,Worldwide Field Operations
+2009,Yahoo
+2009,Zoho
+2009,Zune
+2010,Adobe
+2010,Apple
+2010,Bing
+2010,Business Productivity
+2010,CA Technologies
+2010,Commission
+2010,Corel
+2010,Dell
+2010,Enterprise
+2010,Enterprise Services
+2010,General Counsel
+2010,Google
+2010,Group
+2010,Home Basic
+2010,Home Premium
+2010,Human Resources
+2010,IBM
+2010,Information Systems Division
+2010,Intel
+2010,Linux
+2010,MBD
+2010,MSN
+2010,Mediaroom
+2010,Microsoft
+2010,Microsoft Business Division
+2010,Microsoft Dynamics
+2010,Microsoft Dynamics CRM Online
+2010,Microsoft Office
+2010,Microsoft Office Web Apps
+2010,Microsoft SharePoint
+2010,Microsoft Word
+2010,Nintendo
+2010,Novell
+2010,Office
+2010,Oracle
+2010,PHP
+2010,PowerPoint
+2010,Products Services
+2010,Red Hat
+2010,SAP
+2010,SEC
+2010,Server Tools
+2010,Sony
+2010,System Center
+2010,Ultimate
+2010,VMWare
+2010,Windows Division
+2010,Windows Windows Live Division
+2010,Worldwide Field Operations
+2010,Yahoo
+2010,Zoho
+2010,Zune
+2011,Adobe
+2011,Apple
+2011,Bing
+2011,CA Technologies
+2011,Commission
+2011,Corel
+2011,Dell
+2011,Enterprise Services
+2011,General Counsel
+2011,Google
+2011,Human Resources
+2011,IBM
+2011,Information Systems Division
+2011,Ingram Micro
+2011,Kinect
+2011,Linux
+2011,Lync
+2011,MBD
+2011,MSN
+2011,Mediaroom
+2011,Microsoft
+2011,Microsoft Business Division
+2011,Microsoft Dynamics
+2011,Microsoft Dynamics CRM Online
+2011,Microsoft Exchange
+2011,Microsoft Lync
+2011,Microsoft Office
+2011,Microsoft Office Division
+2011,Microsoft Office Exchange
+2011,Microsoft Office Web Apps
+2011,Microsoft Research
+2011,Microsoft SharePoint
+2011,Nintendo
+2011,Nokia
+2011,OEM
+2011,Office
+2011,Oracle
+2011,PHP
+2011,Principal Products Services
+2011,SAP
+2011,SEC
+2011,SQL
+2011,Select
+2011,Server Tools
+2011,SharePoint
+2011,Sony
+2011,System Center
+2011,Tech Data
+2011,VMWare
+2011,Windows Division
+2011,Windows Windows Live Division
+2011,Yahoo
+2011,adCenter
+2012,Adobe
+2012,Apple
+2012,Bing
+2012,CA Technologies
+2012,Commission
+2012,Dell
+2012,Enterprise Services
+2012,General Counsel
+2012,Google
+2012,Human Resources
+2012,IBM
+2012,Information Systems Division
+2012,Ingram Micro
+2012,Kinect
+2012,Linux
+2012,Lync
+2012,MBD
+2012,MSN
+2012,Microsoft
+2012,Microsoft Business Division
+2012,Microsoft Dynamics
+2012,Microsoft Dynamics CRM Online
+2012,Microsoft Exchange
+2012,Microsoft Lync
+2012,Microsoft Office
+2012,Microsoft Office Division
+2012,Microsoft Office Exchange
+2012,Microsoft Office Web Apps
+2012,Microsoft Research
+2012,Nintendo
+2012,Nokia
+2012,OEM
+2012,Office
+2012,Online Services Division
+2012,Open Programs
+2012,Oracle
+2012,PHP
+2012,Principal Products Services
+2012,SAP
+2012,SEC
+2012,SQL
+2012,Select Plus Program
+2012,Server Tools
+2012,SharePoint
+2012,Skype
+2012,Sony
+2012,Tech Data
+2012,Windows Azure Services
+2012,Windows Division
+2012,Windows Windows Live Division
+2012,Yahoo
+2013,Adobe
+2013,Apple
+2013,Bing
+2013,CA Technologies
+2013,Commission
+2013,Dell
+2013,Enterprise Services
+2013,General Counsel
+2013,Google
+2013,IBM
+2013,Information Systems Division
+2013,Kinect
+2013,Linux
+2013,Lync
+2013,MBD
+2013,MSN
+2013,Microsoft
+2013,Microsoft Business Division
+2013,Microsoft Dynamics
+2013,Microsoft Dynamics CRM Online
+2013,Microsoft Office
+2013,Microsoft Office Web Apps
+2013,Microsoft Online Services
+2013,Microsoft Research
+2013,Microsoft Stores
+2013,Nintendo
+2013,Nokia
+2013,Office
+2013,Online Services Division
+2013,Open Programs
+2013,Oracle
+2013,PHP
+2013,Principal Products Services
+2013,SAP
+2013,SEC
+2013,Select Plus Program
+2013,Server Tools
+2013,SharePoint
+2013,Skype
+2013,Sony
+2013,Surface
+2013,Surface Pro
+2013,Surface RT
+2013,Windows Division
+2013,Yahoo
+2013,Yammer
+2014,Amazon
+2014,Android
+2014,Apple
+2014,Bing
+2014,CA Technologies
+2014,Cisco Systems
+2014,Commercial Licensing
+2014,Commercial Other
+2014,Commission
+2014,Computing Gaming Hardware
+2014,D C
+2014,D C Hardware
+2014,D C Licensing
+2014,Dell
+2014,General Counsel
+2014,Google
+2014,Human Resources
+2014,IBM
+2014,Information Systems Division
+2014,Investor Relations
+2014,Linux
+2014,Lumia
+2014,Lync
+2014,MSN
+2014,Microsoft
+2014,Microsoft Azure
+2014,Microsoft Business Division
+2014,Microsoft Consulting Services
+2014,Microsoft Dynamics
+2014,Microsoft Dynamics CRM Online
+2014,Microsoft Office
+2014,Microsoft Office Exchange
+2014,Microsoft Online Services
+2014,Microsoft Research
+2014,NDS
+2014,Nintendo
+2014,Nokia
+2014,Office
+2014,Office Commercial
+2014,Office Consumer
+2014,Online Services Division
+2014,Open Programs
+2014,Oracle
+2014,PHP
+2014,Phone Hardware
+2014,SAP
+2014,SEC
+2014,Samsung
+2014,Select Plus Program
+2014,SharePoint
+2014,Skype
+2014,Sony
+2014,Xbox Live
+2014,Yahoo
+2014,Yammer
+2015,Amazon
+2015,Android
+2015,Apple
+2015,Bing
+2015,Board Directors
+2015,Business Development
+2015,CA Technologies
+2015,Cisco Systems
+2015,Commercial Licensing
+2015,Commission
+2015,Computing Gaming Hardware
+2015,Computing Gaming Hardware Phone Hardware
+2015,D C
+2015,D C Licensing
+2015,Dell
+2015,Enterprise Services
+2015,Exchange
+2015,General Counsel
+2015,Google
+2015,IBM
+2015,Information Systems Division
+2015,Investor Relations
+2015,Linux
+2015,Lumia
+2015,MPSA
+2015,MSN
+2015,Microsoft
+2015,Microsoft Azure
+2015,Microsoft Business Division
+2015,Microsoft Consulting Services
+2015,Microsoft Dynamics
+2015,Microsoft Office
+2015,Microsoft Research
+2015,Minecraft
+2015,Mojang
+2015,NDS
+2015,Nintendo
+2015,Nokia
+2015,OEM
+2015,Office
+2015,Office Commercial
+2015,Office Consumer
+2015,OneDrive
+2015,OneDrive Skype
+2015,Online Services Division
+2015,Open Programs
+2015,Oracle
+2015,PHP
+2015,Premier Support Services
+2015,SAP
+2015,SEC
+2015,Samsung
+2015,Select Plus
+2015,Select Plus Program
+2015,SharePoint
+2015,Skype
+2015,Skype Business
+2015,Sony
+2015,Xbox
+2015,Xbox Live
+2015,Yahoo
+2016,Amazon
+2016,Antitrust Compliance Office
+2016,Apple
+2016,Bing
+2016,Board Directors
+2016,Business Development
+2016,CA Technologies
+2016,Cisco Systems
+2016,Commission
+2016,Dell
+2016,EU
+2016,Enterprise Services
+2016,Exchange
+2016,Facebook
+2016,General Counsel
+2016,Google
+2016,IBM
+2016,Investor Relations
+2016,LinkedIn
+2016,Linux
+2016,MPSA
+2016,MSN
+2016,Microsoft
+2016,Microsoft Consulting Services
+2016,Microsoft Europe
+2016,Microsoft Global Sales
+2016,Microsoft Office
+2016,Microsoft Research
+2016,Minecraft
+2016,Nintendo
+2016,Nokia
+2016,OEM
+2016,Office
+2016,Office Commercial
+2016,Office Consumer
+2016,Office Consumer Services
+2016,OneDrive
+2016,OneDrive Skype
+2016,Oracle
+2016,PHP
+2016,Premier Support Services
+2016,SAP
+2016,SEC
+2016,Select Plus
+2016,SharePoint
+2016,Skype
+2016,Skype Business
+2016,Software Assurance
+2016,Sony
+2016,System Center
+2017,AI
+2017,AOL
+2017,Amazon
+2017,Antitrust Compliance Office
+2017,Apple
+2017,Bing
+2017,Business Development
+2017,CA Technologies
+2017,Cisco Systems
+2017,Commission
+2017,Dynamics
+2017,ERP
+2017,EU
+2017,Facebook
+2017,GDPR
+2017,General Counsel
+2017,Google
+2017,IBM
+2017,Investor Relations
+2017,Learning Development
+2017,LinkedIn
+2017,LinkedIn Corporation
+2017,Linux
+2017,MSN
+2017,Marketing Consumer Business
+2017,Marketing Solutions
+2017,Microsoft
+2017,Microsoft Azure
+2017,Microsoft Consulting Services
+2017,Microsoft Europe
+2017,Microsoft Global Sales
+2017,Microsoft Office
+2017,Microsoft Research
+2017,Microsoft SQL Server
+2017,Microsoft Teams
+2017,Nintendo
+2017,OEM
+2017,Office
+2017,Office Commercial
+2017,Office Consumer Services
+2017,OneDrive
+2017,Oracle
+2017,PHP
+2017,Premier Support Services
+2017,Premium Subscriptions
+2017,SAP
+2017,SEC
+2017,Sales Solutions
+2017,Select Plus
+2017,SharePoint
+2017,Skype
+2017,Software Assurance
+2017,Sony
+2017,System Center
+2017,Talent Solutions Marketing Solutions
+2017,Visual Studio
+2017,Xbox
+2018,AI
+2018,Amazon
+2018,Antitrust Compliance Office
+2018,Apple
+2018,Bing
+2018,Board Directors
+2018,Business Development
+2018,CA Technologies
+2018,Cisco Systems
+2018,Commission
+2018,ERP
+2018,EU
+2018,Enterprise Mobility Security
+2018,Facebook
+2018,GDPR
+2018,General Counsel
+2018,GitHub Inc
+2018,Google
+2018,IBM
+2018,Investor Relations
+2018,IoT
+2018,Learning Development
+2018,LinkedIn
+2018,Linux
+2018,MSN
+2018,Marketing Consumer Business
+2018,Marketing Solutions
+2018,Microsoft
+2018,Microsoft Azure
+2018,Microsoft Consulting Services
+2018,Microsoft Europe
+2018,Microsoft Global Sales
+2018,Microsoft Office
+2018,Microsoft Research
+2018,Microsoft SQL Server
+2018,Microsoft Surface
+2018,Microsoft Teams
+2018,Mixer
+2018,Nintendo
+2018,OEM
+2018,Office
+2018,Office Commercial
+2018,Office Consumer Services
+2018,OneDrive
+2018,Oracle
+2018,PHP
+2018,Premier Support Services
+2018,Premium Subscriptions
+2018,SA
+2018,SAP
+2018,SEC
+2018,Sales Solutions
+2018,Securities Exchange Commission
+2018,Select Plus
+2018,SharePoint
+2018,Skype
+2018,Software Assurance
+2018,Sony
+2018,Surface
+2018,Talent Solutions Marketing Solutions
+2018,Xbox
+2019,AI
+2019,Amazon
+2019,Antitrust Compliance Office
+2019,Apple
+2019,Bing
+2019,Board Directors
+2019,Business Development
+2019,CA Technologies
+2019,Cisco Systems
+2019,Commission
+2019,DOJ
+2019,Dynamics
+2019,ERP
+2019,EU
+2019,Enterprise Mobility Security
+2019,Facebook
+2019,GDPR
+2019,General Counsel
+2019,GitHub
+2019,Google
+2019,IBM
+2019,Intelligent Cloud
+2019,Investor Relations
+2019,IoT
+2019,Learning Development
+2019,LinkedIn
+2019,Linux
+2019,MSN
+2019,Marketing Consumer Business
+2019,Marketing Solutions
+2019,Microsoft
+2019,Microsoft Advertising
+2019,Microsoft Azure
+2019,Microsoft Consulting Services
+2019,Microsoft Europe
+2019,Microsoft Global Sales
+2019,Microsoft Office
+2019,Microsoft Research
+2019,Microsoft SQL Server
+2019,Microsoft Surface
+2019,Microsoft Teams
+2019,Mixer
+2019,NPA
+2019,Nintendo
+2019,OEM
+2019,Office
+2019,Office Commercial
+2019,Office Consumer Services
+2019,Okta
+2019,OneDrive
+2019,Oracle
+2019,PHP
+2019,Premier Support Services
+2019,Premium Subscriptions
+2019,SA
+2019,SAP
+2019,SEC
+2019,SQL Server
+2019,Sales Solutions
+2019,Securities Exchange Commission
+2019,SharePoint
+2019,Skype
+2019,Software Assurance
+2019,Sony
+2019,Surface
+2019,Talent Solutions
+2019,Talent Solutions Marketing Solutions
